@@ -1,0 +1,11 @@
+D:\PT_PMTT\BTVN_1\Caro\bin\Debug\Caro.exe.config
+D:\PT_PMTT\BTVN_1\Caro\bin\Debug\Caro.exe
+D:\PT_PMTT\BTVN_1\Caro\bin\Debug\Caro.pdb
+D:\PT_PMTT\BTVN_1\Caro\obj\Debug\Caro.csproj.AssemblyReference.cache
+D:\PT_PMTT\BTVN_1\Caro\obj\Debug\Caro.Frm_Welcome.resources
+D:\PT_PMTT\BTVN_1\Caro\obj\Debug\Caro.Properties.Resources.resources
+D:\PT_PMTT\BTVN_1\Caro\obj\Debug\Caro.csproj.GenerateResource.cache
+D:\PT_PMTT\BTVN_1\Caro\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+D:\PT_PMTT\BTVN_1\Caro\obj\Debug\Caro.exe
+D:\PT_PMTT\BTVN_1\Caro\obj\Debug\Caro.pdb
+D:\PT_PMTT\BTVN_1\Caro\obj\Debug\Caro.Frm_Caro.resources
